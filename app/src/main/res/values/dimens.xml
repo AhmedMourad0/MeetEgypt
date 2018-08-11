@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="detailsPaddingTop">8dp</dimen>
+    <dimen name="detailsPaddingBottom">16dp</dimen>
+
+    <dimen name="detailsCardMarginSide">4dp</dimen>
+    <dimen name="detailsCardMarginTop">4dp</dimen>
+    <dimen name="detailsCardCornerRadius">1dp</dimen>
+    <dimen name="detailsCardElevation">1dp</dimen>
+
+    <dimen name="detailsTextMargin">16dp</dimen>
+    <dimen name="detailsTextSize">18sp</dimen>
+
+    <dimen name="categoryRecyclerPaddingBottom">8dp</dimen>
+
+    <dimen name="locationCardMarginSide">8dp</dimen>
+    <dimen name="locationCardMarginTop">8dp</dimen>
+    <dimen name="locationCardCornerRadius">1dp</dimen>
+    <dimen name="locationCardElevation">1dp</dimen>
+
+    <dimen name="locationNamePaddingSide">8dp</dimen>
+    <dimen name="locationNamePaddingBottom">12dp</dimen>
+    <dimen name="locationNamePaddingTop">12dp</dimen>
+    <dimen name="locationNameTextSize">17sp</dimen>
+
+    <dimen name="locationSummaryPadding">8dp</dimen>
+
+</resources>

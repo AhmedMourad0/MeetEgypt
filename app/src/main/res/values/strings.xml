@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meet Egypt</string>
+    <string name="location_image">Location image</string>
+    <string name="historical">Ancient</string>
+    <string name="natural">Natural</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Food</string>
+    <string name="not_available">N/A</string>
+</resources>
