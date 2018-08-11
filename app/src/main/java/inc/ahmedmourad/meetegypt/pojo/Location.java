@@ -29,7 +29,8 @@ public class Location {
 		return name;
 	}
 
-	private void setName(@NonNull final String name) {
+	@SuppressWarnings("WeakerAccess")
+	public void setName(@NonNull final String name) {
 		this.name = name;
 	}
 
@@ -38,7 +39,8 @@ public class Location {
 		return summary;
 	}
 
-	private void setSummary(@NonNull final String summary) {
+	@SuppressWarnings("WeakerAccess")
+	public void setSummary(@NonNull final String summary) {
 		this.summary = summary;
 	}
 
@@ -47,7 +49,8 @@ public class Location {
 		return image;
 	}
 
-	private void setImage(@DrawableRes final int image) {
+	@SuppressWarnings("WeakerAccess")
+	public void setImage(@DrawableRes final int image) {
 		this.image = image;
 	}
 }
